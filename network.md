@@ -8,6 +8,7 @@
     -Possible trouble with firewall (use wss for encryption and helps prevent
     firewall/other network layer from blocking because of unfamiliar data
     format
+    -
 
 ## Server-Sent Events
 
