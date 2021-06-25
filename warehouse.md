@@ -1,4 +1,5 @@
 Data Warehouses:
+e
 
 - relational database that is designed for query and analysis rather than for transaction processing
   Characteristics of Data Warehouses:
